@@ -1,9 +1,9 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
-logo: halve.png                                       # Site logo
-locale: en_US
+title: AVANT
+description: Empresa Jr. FBV WYDEN
+url: https://avantconsultoria.github.io/
+logo: logoMenor.jpeg                                      # Site logo
+locale: pt_BR
 
 # Left Block Images
 background:
@@ -31,13 +31,13 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#twitter:            username
+facebook:           Avant-Consultoria-126051418109812
+#github:             username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          avant-consultoria
 #xing:              username
-#instagram:          username
+instagram:          avantconsultoria
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
